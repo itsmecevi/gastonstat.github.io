@@ -1,3 +1,3 @@
 # About
 
-Personal website of [Gaston Sanchez](http://gastonsanchez.com).
+Personal website of [Cevi Herdian](https://itsmecevi.github.io/).
