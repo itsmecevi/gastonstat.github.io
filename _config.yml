@@ -1,18 +1,18 @@
 # Site settings
-title: Cevi Herdian
-email: itsmecevi@gmail.com
+title: Gertaone
+email: gertaone@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- Cevi Herdian website.
+ Gertaone Website.
 
 # url of domain
-url: itsmecevi.github.io
+url: gertaone.github.io
 # baseurl: /path/to/blog (leave this empty for user page)
 baseurl: 
 
 # User setting
 owner: Cevi Herdian
-email: "itsmecevi [at] gmail [dot] com"
-github_username: itsmecevi
+email: "gertaone [at] gmail [dot] com"
+github_username: gertaone
 linkedin_username: Cevi Herdian
 address:
   - line: Berlin  
