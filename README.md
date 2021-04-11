@@ -1,3 +1,3 @@
 # About
 
-Gertaone Applied Research
+Code Free Data Science
